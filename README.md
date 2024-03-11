@@ -9,11 +9,7 @@
 - `Git Rm`: Tem a utilidade de remover arquivos ou coisas do repositorio
 - `Git Status`: Serve para mostrar uma lista de arquivos que foram modificados no repositorio 
 
-# Criado por Matheus Trevisan :D
-<div>
-<a href="https://github.com/Hltktrevisan">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htlktrevisan&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Htlktrevisan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+# Obrigado pela atenção :D
 
-- `Git config`:
+![EQr](https://github.com/Htlktrevisan/PrimeiroCommit/assets/162151256/8288b612-897e-43d7-b3af-5830645f7aca)
+
